@@ -1,0 +1,25 @@
+Smartsheet is looking for an experienced Data Scientist to help drive analyses, generate insights, and influence decision making. With thousands of subscribing organizations and millions of users there is lots of opportunity to make meaningful impact and drive growth through analytics within Smartsheet. The ideal candidate is intellectually curious, has strong analytical skills and has the ability to communicate key insights effectively. This individual will work closely with departments across the company and will be a part of a highly efficient and results oriented Business Intelligence team. This full time position reports to the Data Science Manager and is based in Smartsheet's corporate offices in Bellevue, WA.
+
+Responsibilities:
+Mine large datasets and draw actionable insights
+Present discoveries and insights to line of business teams and give recommendations to encourage data-driven decision making
+Partner with cross functional teams across Marketing, Sales, Product Management, Engineering in operationalizing the initiatives
+Identify areas for further investigation
+Requirements:
+BA/BS in Computer Science, Mathematics, Operations Research, Physics, or other technical field. Advanced degree preferred but not required
+3+ years of experience in quantitative analysis, combined with strong business judgment and an ability to present analysis in a clear and compelling manner
+Proficient in implementing various statistical models and data mining tools (predictive modeling, clustering, logistic regression, multivariate regression, decision trees, neural networks)
+Hands on experience in executing analysis using tools such as SQL, R, Python, Excel, Tableau and Google Analytics.
+Ability to research and learn new technologies, tools, and platforms
+Ability to draw conclusions from data and recommend actions
+Ability to thrive in an unstructured environment, working autonomously on a strong team to find opportunity and deliver business impact
+A self-starters who can, with minimal guidance, drive projects from concept through completion
+Focus to make quick strikes, iterate, and produce in high volume
+Smarts to pick up new concepts at light speed
+Agility to quickly adjust priorities and shift direction
+Flexibility to contribute to other projects as required
+About Smartsheet
+
+In 2005, Smartsheet was founded on the idea that teams and millions of people worldwide deserve a better way to deliver their very best work. Today, the company delivers a leading cloud-based platform for work execution, empowering organizations to plan, capture, track, automate, and report on work at scale, resulting in more efficient processes and better business outcomes. Smartsheet went public on the New York Stock Exchange in April 2018 and currently enables collaboration, better decision making, and accelerated innovation for over 76,000 domain-based customers in 190 countries, including 96 of the Fortune 100.
+
+Smartsheet is an Equal Opportunity Employer. Individuals seeking employment at Smartsheet are considered without regard to race, ethnicity, color, age, sex, religion, national origin, ancestry, pregnancy, sexual orientation, gender, gender identity, gender expression, genetic information, physical or mental disability, registered domestic partner status, caregiver status, marital status, veteran or military status, citizenship status, or any other legally protected category.

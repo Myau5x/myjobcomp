@@ -1,0 +1,63 @@
+OLGA  ILLARIONOVA
+Greater Seattle Area
+(425) 247-9075
+ola.illari@gmail.com	linkedin.com/in/olaillari 		https://github.com/Myau5x
+Summary
+Passionate Data Scientist and Machine Learning Engineer with strong mathematical background and 5+ years experience in IT . Created tools using machine learning techniques such as clustering, NLP, etc. Proven ability to use statistical methods.
+Technical Skills
+Python: SciPy, Scikit-learn, PySpark, BeautifulSoup
+Visualization: Tableau, Matplotlib
+Database: SQL, MongoDB
+Other: git, AWS, R
+Professional Experience
+SEP 2018 - DEC 2018
+Galvanize, Seattle WA Data Science Fellow
+Created an app to filter restaurants based on personalised user preferences (PySpark, scikit-learn, pandas, MongoDB, Flask)
+Applied supervised and unsupervised machine learning techniques (NLP, gradient-boosted classifiers, random forests, k-means clustering etc.) for group case studies: building and deploying a fraud detection web dashboard, creating a recommender system
+Validated results of models using statistical methods (hypothesis testing, confidence interval, p-values, etc)
+
+AUG 2014 - MAY 2015
+Snapswap, Issaquah WA  - Operations Assistant
+IT startup in p2p payments.
+Run daily operations
+Ensured data integrity by validating multiple data points
+Investigated discrepancies to identify the root cause of a problem
+Used technologies: Python, SQL
+MAY 2006 -JUL 2011
+Sibintek,  Moscow, Russia - Business Analyst / Senior IT Support
+Our team supported IT systems for accounting department of a major oil company. My daily responsibilities included the following activities:
+Troubleshoot reporting systems (technologies: SQL, Scripting)
+Adapt to new legislation and business needs: collect requirements, facilitate development, run acceptance testing, prepare technical documentation
+Collaborate with other internal teams and vendors which ensured alignment with stakeholder needs
+Clean raw data from downstream systems
+I facilitated migration to a new audit system and was promoted in 2008
+
+Education
+SEP 2018 - DEC 2018
+Certificate in Data Science - Galvanize, Seattle WA
+Immersive 13-week Data Science course
+SEP  2001 - JUN 2006
+M.S.  Mathematics - Lomonosov Moscow State University, Moscow, Russia
+Minor Computer Science
+FEB  2018
+Certificate, Desktop Qualified Associate, Tableau Desktop Exams
+
+Coursera Certificates
+
+Excel to MySQL: Analytic Techniques for Business, a 5-course specialization by Duke University
+Python for Everybody, a 5-course specialization by University of Michigan
+Applied Text Mining in Python by University of Michigan
+Applied Machine Learning in Python by University of Michigan
+Hadoop Platform and Application Framework by University of California San Diego
+Introduction to Big Data (2015) by University of California San Diego
+Developing Data Products by Johns Hopkins University
+Practical Machine Learning by Johns Hopkins University
+Regression Models by Johns Hopkins University
+Statistical Inference by Johns Hopkins University
+Exploratory Data Analysis by Johns Hopkins University
+Getting and Cleaning Data by Johns Hopkins University
+Reproducible Research by Johns Hopkins University
+R Programming by Johns Hopkins University
+The Data Scientist’s Toolbox by Johns Hopkins University
+MAR  2013
+Statement of Accomplishment "Machine Learning by Stanford University”  Coursera
